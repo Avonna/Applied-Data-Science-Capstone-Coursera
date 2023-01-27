@@ -1,1 +1,1 @@
-# Applied-Data-Science-Capstone-Coursera
+# C10-Capstone
